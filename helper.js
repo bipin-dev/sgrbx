@@ -1,7 +1,4 @@
 module.exports = {
-  newTestFunction : ()=>{
-    return "DummyValue";
-  },
   formatUserData: (data) => {
     // format the data, as there is no schema
     return {
